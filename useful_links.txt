@@ -1,0 +1,36 @@
+Links provided:
+
+Week 7 (self study)
+lesson 0 youtube vid (java): https://www.youtube.com/playlist?list=PLpEoZsOIL3Uc0WCEiygOfkrq3wYD6LRZh
+
+lesson 1 youtube vid (java): https://www.youtube.com/playlist?list=PLpEoZsOIL3UeygMMVBbtOAuGMg03RzEuP
+lesson 1 youtube vid (android): https://www.youtube.com/playlist?list=PLpEoZsOIL3UeCfbO4FFicFa4u752z2Edo
+lesson 1 starter code: https://github.com/ISTD50001-2023/2023-Lesson1-StarterCode
+
+reading xml files: https://www.w3schools.com/xml/xml_syntax.asp
+
+Week 8
+
+inclass demo: https://github.com/fred0009/50001-Week8-InClassDemo
+
+lesson 2 cohort starter code: https://github.com/fred0009/50001-Lesson2-StarterCode
+lesson 2 cohort solutions: https://github.com/fred0009/50001-Lesson2CohortExercise-Solution
+lesson 2 cohort solutions (improved): https://github.com/fred0009/50001-Lesson2CohortExercise-Solution-MVC
+
+Week 9
+
+inclass demo: https://github.com/fred0009/50001-Week9-InClassDemo
+
+lesson 3 cohort starter code: https://github.com/fred0009/50001-Lesson3-StarterCode
+lesson 3 cohort solutions: https://github.com/fred0009/50001-Lesson3CohortExercise-Solution
+
+Week 10
+
+lesson 4 java examples: https://github.com/ISTD50001-2023/2023-Lesson4-Java--Examples
+lesson 4 android recycle view: https://github.com/ISTD50001-2023/2023-Lesson-4-Android--ExampleApp
+lesson 4 android intents: https://github.com/ISTD50001-2023/2023-Lesson-4-IntentExamples
+lesson 4 cohort starter code: https://github.com/otakuprof/ISP2024-Lesson4-StarterApp
+
+Week 11 
+
+lesson 5 firebase: https://github.com/otakuprof/50001-2023-FirebaseTesting
